@@ -5,7 +5,7 @@
 Pokud chcete takto vidět týmové KučaIndexy na stránce nasazení na [statku](https://statek.seslost.cz), Potřebujete:
 
 1. Mít účet na [sifrovacky.cz](https://sifrovacky.cz), kterým se přihlásíte na Statek
-2. Nainstalovat rozšíření [TamperMonkey]https://www.tampermonkey.net/ ve svém browseru
+2. Nainstalovat rozšíření [TamperMonkey](https://www.tampermonkey.net/) ve svém browseru
 3. Přidat do TamperMonkey nový skript
 
  ![TamperMonkey](tampermonkey-screen.png)
