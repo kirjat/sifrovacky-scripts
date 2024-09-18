@@ -38,7 +38,7 @@ a jeho obsah nahradit tímto:
           total += parseFloat(match[1].replace(',', '.'));
         }
       });
-      row.querySelector('.name').textContent += " (" + total.toFixed(1) + ")";
+      row.querySelector('.team').textContent += " (" + total.toFixed(1) + ")";
     });
 })();
 ```
